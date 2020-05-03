@@ -1,0 +1,10 @@
+.added {
+  float: left;
+  margin: 30px;
+  width: 400px;
+  height: 650px;
+}
+.disabled {
+  opacity: 0.5;
+  pointer-events: none;
+}
